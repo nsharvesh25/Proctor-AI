@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Proctor AI",
+  "description": "An AI-powered learning platform for comprehensive exam preparation, offering personalized study plans, mock tests, interactive tools, and a collaborative environment to help students excel in exams like JEE, NEET, UPSC, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
